@@ -28,13 +28,13 @@ Of course, technical constraints cut down on the production’s setting and scop
  
 So far I have refrained from revealing Mephisto’s pronouns: it’s she/her/hers. The calculating, gender-reversed Mephisto and the naïve Gretchen both resemble female archetypes. Only they are more complicated than that. While Mephisto is intrigued by human emotion, Gretchen is given a lot more agency and self-will in *A Neufaust*. She, not Mephisto, leads Faust out of his books and into the world of sensual experience. When her intuition, which she tends to follow, hasn’t yet given her great trouble, it produces arguably the most beautiful (and original) scene in the production. Faust gets absorbed in his book and neglects Gretchen, who nudges him mischievously, then starts flying his papers high up in the air. Faust is startled. Then he joins her, as the lovers circled across the stage, their faces glistening in shifting light, amid papers gliding like falling leaves. Then Mephisto emerges from the dark, to begrudgingly sweep away what seems to be the script of the play.
  
-This “feminist-minded adaptation” (to borrow from directors’ note) also transforms Goethe’s ending, where Gretchen shows remarkable (though a bit abrupt) character growth. To be executed (that’s a goof: Connecticut has abolished the death penalty), she refuses to escape with Faust: not in a madness as per Goethe, but conscious and determined, having no fantasy for a bygone love or a life spent in regret. There is an intriguing change from the original, which writes:
-MEPHISTO: “She is condemned!”
+This “feminist-minded adaptation” (to borrow from directors’ note) also transforms Goethe’s ending, where Gretchen shows remarkable (though a bit abrupt) character growth. To be executed (that’s a goof: Connecticut has abolished the death penalty), she refuses to escape with Faust: not in a madness as per Goethe, but conscious and determined, having no fantasy for a bygone love or a life spent in regret. There is an intriguing change from the original, which writes:  
+MEPHISTO: “She is condemned!”  
 A VOICE [from above]: “Redeemed!”
  
-In *A Neufaust* we have:
-MEPHISTO: “She is condemned!”
-FAUST [deadpan]: “I… think she is redeemed…”
+In *A Neufaust* we have:  
+MEPHISTO: “She is condemned!”  
+FAUST [deadpan]: “I… think she is redeemed…”  
 In a world without the divine, who gets to decide?
  
 I don’t think Faust has the moral authority, at least, however much ethics he has read. What Gretchen realized in prison could be the dark underside of the Faust story, made more explicit by the post-MeToo college setting. A scandal in iambic pentameters is disgraceful nonetheless: power inequity, exploitation, and manipulation in the name of some pursuit pure and profound (a contemporary example: Gabriel Matzneff). To Faust, is Gretchen her own person, or merely the symbol of youth and life, that he is dire to possess and fated to lose? Yet, are not our protagonists symbols to the viewer, and therefore remote and justifiable? *A Neufaust* is very much removed from time and space: no mention of tenure track, politics, or local news headlines. One might say the play itself romanticizes the scandalous: at curtain I found the tale woeful, only much later revolting. Literature’s prowess – to dress up the bad and devilish – is as dangerous as the unrest spurred by some higher goal.
@@ -51,7 +51,7 @@ It is possible to be obsessed with innovation for innovation’s sake, and to di
  
 Both reasons make sense. I will not dispute them. But I also doubt if I am writing anything new. Are we really as innovative as we see ourselves to be? How can we know that if not knowing what is out there? When generative AI is radically redefining (human) creativity, we should perhaps be reminded that its ability to create, or appear to create, stems from meaningful interactions with the past. An adaptation is, likewise, not a singularity but part of a long conversation. And we should listen, with all due respect, so we know what makes a voice lasting, and better heard.
  
-In the middle of the play there was a medley of film clips, all featuring people, each in their own way, drunken and astray in love’s revelries. This included F.W. Murnau’s 1926 adaptation Faust, where Gretchen’s stilted, robotic movements signal love’s paralysis, as well as the alienated human body, brought by an industrializing and mechanizing age. The feminist Gretchen in *A Neufaust* is a pleasant surprise. But, to borrow a word from Mephisto, “She is not the first!”
+In the middle of the play there was a medley of film clips, all featuring people, each in their own way, drunken and astray in love’s revelries. This included F.W. Murnau’s 1926 adaptation *Faust*, where Gretchen’s stilted, robotic movements signal love’s paralysis, as well as the alienated human body, brought by an industrializing and mechanizing age. The feminist Gretchen in *A Neufaust* is a pleasant surprise. But, to borrow a word from Mephisto, “She is not the first!”
 
 **Postscript (unrelated, nothing important)**
 
