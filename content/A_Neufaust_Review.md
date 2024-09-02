@@ -1,5 +1,5 @@
 ---
-title: *A Neufaust:* fanfiction well-done is powerful and lovely (and scandalous, if you will)
+title: *A Neufaust* fanfiction well-done is powerful and lovely (and scandalous, if you will)
 
 ---
 
