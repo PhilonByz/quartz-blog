@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my blog!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is an alcove for my random thoughts. If you find them interesting, I will be very happy!
+
+I expect there to be casual trinkets and polished writings.
+
+Content-wise, there are [[Reviews]], ?, ??, ???.
+
+See the [documentation](https://quartz.jzhao.xyz) for how to set up a blog with Quartz.
