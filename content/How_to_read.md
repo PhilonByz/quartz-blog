@@ -38,7 +38,7 @@ Some do. For the latter, read the conclusions before reading the introduction. W
 - skim: get an overview
 - ask: raise some questions
 - read: answer the questions as you read
-- recall: summarize the sections *without looking at the text*. If you cannot recall, stand up and walk around. Recalling helps you to spot the flaw in the argument
+- recall: summarize the sections *without looking at the text*. If you cannot recall, stand up and walk around. Recalling helps you spot the flaw in the argument.
 - review: write down your thoughts
 
 My thoughts: asking and recalling are helpful. But is this really practical?
