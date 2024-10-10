@@ -9,3 +9,7 @@ I expect there to be casual trinkets and polished writings.
 Content-wise, there are [[Reviews]], [[Utilities]], ??, ???.
 
 See the [documentation](https://quartz.jzhao.xyz) for how to set up a blog with Quartz.
+
+How to sync new content:
+1. go to opt/homebrew/bin/quartz
+2. run npx quartz sync
